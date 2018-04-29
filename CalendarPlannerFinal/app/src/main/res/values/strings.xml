@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CalendarPlannerFinal</string>
+    <string name="addButton">Add a Calendar</string>
+</resources>
